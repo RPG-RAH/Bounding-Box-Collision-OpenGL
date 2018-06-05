@@ -24,4 +24,4 @@ Install OpenGL Packages (Ubuntu)
 
 Run Program
      
-        g++ Game.cpp -fms-extensions -I/usr/include/libdrm -lglfw -lGLEW -lGLU -lGL -o main; ./main
+        g++ Game.cpp -I/usr/include/libdrm -lglfw -lGLEW -lGLU -lGL -o main; ./main
